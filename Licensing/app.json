@@ -11,10 +11,12 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    "id": "5a1c839e-b2f8-4f73-8c12-d4a8b9b2450b",
-    "name": "Common",
-    "publisher": "FidesiousPro",
-    "version": "1.0.0.0"  
+    {
+      "id": "5a1c839e-b2f8-4f73-8c12-d4a8b9b2450b",
+      "name": "Common",
+      "publisher": "FidesiousPro",
+      "version": "1.0.0.0"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
